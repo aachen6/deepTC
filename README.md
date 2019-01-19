@@ -20,10 +20,13 @@ which is referred as deepTC. The development of deepTC is primary carried out on
 
 2. [Statistics of satellite images and tracks](https://)
 
-3. Architecture of deepTC
-   * [Post-binding architecture for deepTC](https://)
-   * [CNN/Resnet model for deepTC](https://)
-   * [GAN model for deepTC](https://)
-   * [LSTM model for deepTC](https://)
-   * [LSTM-CNN model for deepTC](https://)
+3. [Post-binding architecture for deepTC](https://)
+
+4. [CNN/Resnet model for deepTC](https://)
+
+5. [GAN model for deepTC](https://)
+
+6. [LSTM model for deepTC](https://)
+ 
+7. [LSTM-CNN model for deepTC](https://)
 
