@@ -18,16 +18,12 @@ which is referred as deepTC. The development of deepTC is primary carried out on
 
 1. [Satellite images and tracks of TCs](https://)
 
-2. [CNN/Resnet model for deepTC](https://)
-   * [Post-binding architecture and deepTC-Net](https://)
-   * [Put into action](https://)
+2. [Statistics of satellite images and tracks](https://)
 
-3. [GAN model for deepTC](https://)
-   * [Post-binding deepTC-GAN](https://)
-   * [Put into action](https://)
+3. Architecture of deepTC
+   * [Post-binding architecture for deepTC](https://)
+   * [CNN/Resnet model for deepTC](https://)
+   * [GAN model for deepTC](https://)
+   * [LSTM model for deepTC](https://)
+   * [LSTM-CNN model for deepTC](https://)
 
-4. LSTM model for deepTC
-   * currently under development–deepTC-LSTM
-
-5. LSTM-CNN model for deepTC 
-   * currently under development–deepTC-LSTMCNN
