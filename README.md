@@ -16,20 +16,18 @@ The objective is to develop or explore deep neutral network to accurately:
 
 which is referred as deepTC. The development of deepTC is primary carried out on Google Colab and organized into following notebooks,
 
-1. [Satellite image and track extraction](https://)
+1. [Satellite images and tracks of TCs](https://)
 
-2. [Satellite image and track synchronization](https://)
-
-3. [CNN/Resnet model for deepTC](https://)
+2. [CNN/Resnet model for deepTC](https://)
    * [Post-binding architecture and deepTC-Net](https://)
    * [Put into action](https://)
 
-4. [GAN model for deepTC](https://)
+3. [GAN model for deepTC](https://)
    * [Post-binding deepTC-GAN](https://)
    * [Put into action](https://)
 
-5. LSTM model for deepTC
+4. LSTM model for deepTC
    * currently under development–deepTC-LSTM
 
-6. LSTM-CNN model for deepTC 
+5. LSTM-CNN model for deepTC 
    * currently under development–deepTC-LSTMCNN
