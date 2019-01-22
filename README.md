@@ -6,7 +6,7 @@ The Dvorak technique is the most widely used methodology that estimates TC inten
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/DvorakCDP1973.png/1280px-DvorakCDP1973.png" width="400"/>*Image credit: Wikipedia*
 
-The prediction of TC track relies on global numerical weather models that solve the mathematical equations governing the behavior of the atmosphere at every point on the globel. According to [this article](https://www.wunderground.com/hurricane/models.asp) by Dr. Jeff Masters, Director of Meteorology from NOAA, the top six dynamical models for the TS track and intensity are 
+The prediction of TC track relies on global numerical weather models that solve the mathematical equations governing the behavior of the atmosphere at every point on the globel. According to [this article](https://www.wunderground.com/hurricane/models.asp) by Dr. Jeff Masters, Director of Meteorology from NOAA, the top six dynamical models for the TS track and intensity forecast are 
 
 - ECMWF: The European Center for Medium-Range Weather Forecasting (ECMWF) model is the premier global model in the world for medium range weather forecasting in the mid-latitudes;
  
