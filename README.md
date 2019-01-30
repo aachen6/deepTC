@@ -48,11 +48,12 @@ which is referred as deepTC. The development of deepTC is primary carried out on
 
    - 2.4. [Resnet model for TC intensity estimation](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_resnet_intensity.ipynb)
 
-3. [DCGAN model for deepTC](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_dcgan.ipynb)
+3. Generversial Model for TC images
+   - 3.1 [DCGAN model for deepTC](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_dcgan.ipynb)
 
 4. Model for TC Track
-    - 4.1 [Post-binding architecture of TC Track](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_net_track.ipynb)
+   - 4.1 [Post-binding architecture of TC Track](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_net_track.ipynb)
     
-    - 4.2 [LSTM model for TC track prediction](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_lstm_track.ipynb)
+   - 4.2 [LSTM model for TC track prediction](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_lstm_track.ipynb)
  
-    - 4.3 [LSTM-CNN model for TC track prediction](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_lstmcnn_track.ipynb)
+   - 4.3 [LSTM-CNN model for TC track prediction](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_lstmcnn_track.ipynb)
