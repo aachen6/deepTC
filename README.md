@@ -35,30 +35,22 @@ The objective here is to explore and develop deep neutral network to accurately:
 which is referred as deepTC. The development of deepTC is primary carried out on Google Colab and organized into following notebooks,
 
 1. Data Preprocess
-- 1.1 [Satellite images and tracks of TCs](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_images_tracks_sync.ipynb/)
-
-- 1.2 [Statistics of satellite images and tracks](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_images_tracks_stats.ipynb)
+ - 1.1 [Satellite images and tracks of TC](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_images_tracks_sync.ipynb)
+ - 1.2 [Statistics of satellite images and tracks](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_images_tracks_stats.ipynb)
 
 2. Model for TC Image
-- 2.1 [Post-binding architecture of TC image](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_net_intensity.ipynb)
-
-- 2.2 [CNN model for intensity classification](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_classification_cnn5.ipynb)
-
-- 2.3 [Resnet model for intensity classification](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_classification_resnet.ipynb)
-
-- 2.4. [Resnet model for intensity estimation](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_intensity_resnet.ipynb)
+ - 2.1 [Post-binding architecture of TC image](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_net_image.ipynb)
+ - 2.2 [CNN model for TC image classification ](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_classification_cnn5.ipynb)
+ - 2.3 [Resnet model for TC image classification](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_classification_resnet.ipynb)
+ - 2.4 [Resnet model for TC image intensity estimation](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_intensity_resnet.ipynb)
+ - 2.5 [Operation of TC image prediction](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_image_prediction.ipynb)
 
 3. Model for TC Track
-- 3.1 [Post-binding architecture of TC Track](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_net_track.ipynb)
-    
-- 3.2 [LSTM model for TC track prediction](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_track_lstm.ipynb)
+ - 3.1 [Post-binding architecture of TC track](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_net_track.ipynb)
+ - 3.2 [LSTM model for TC track prediction](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_track_lstm.ipynb)
+ - 3.3 [LSTM model with attension for TC track prediction](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_track_lstm.ipynb) 
+ - 3.4 [LSTM-CNN model for TC track prediction](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_track_lstmcnn.ipynb)
 
-- 3.3 [Attention for TC track prediction](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_track_attention.ipynb)
- 
-- 3.4 [LSTM-CNN for TC track prediction](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_track_lstmcnn.ipynb)
-
-4. Generversial Model for TC images
-- 4.1 [DCGAN model for deepTC](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_dcgan.ipynb)
-
-- 4.2 [SAGAN model for deepTC](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_sagan.ipynb)
-
+4. Generative Model for TC Image
+ - 4.1 [DCGAN model for deepTC](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_generative_dcgan.ipynb)
+ - 4.2 [SAGAN model for deepTC](https://github.com/aachen6/deepTC/blob/master/colab/deepTC_generative_sagan.ipynb)
